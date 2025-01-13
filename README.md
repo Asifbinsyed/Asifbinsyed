@@ -3,7 +3,8 @@
 I'm a passionate Data Scientist with a knack for solving complex problems using data-driven approaches. Currently enhancing logistics and supply chain processes at Volvo Group, I bring a blend of technical skills and practical insights to the table.
 
 #### 🚀 About Me
-- 🎓 Pursuing a Master of Science in Industrial Engineering (Specialization in Decision Science) from West Virginia University.
+- 🎓 Completed Master of Science in Industrial Engineering (Specialization in Decision Science) from West Virginia University.
+- 🏆 Currently working at Home Depot as Sr. Data Analyst in supply chain
 - 🌱 I’m currently working as a Logistics Analyst Co-op at Volvo Group, where I utilize SQL, Power BI, and machine learning to optimize logistics processes.
 - 🏆 Finalist in the Data Challenge for Quality Control and Reliability Engineering (IISE).
 
