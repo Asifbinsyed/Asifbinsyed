@@ -5,7 +5,7 @@ I'm a passionate **Sr. Supply Chain Data Analyst** with 4+ years of experience i
 ## 🚀 About Me
 - 🎓 **MS in Industrial Engineering** (Decision Science) from West Virginia University
 - 🏆 Currently **Sr. Supply Chain Data Analyst** at The Home Depot, leading teams and developing ML solutions
-- 💡 Led development of **SmartFulfill agent** using offline RL, reducing delivery failures by 4.5% and retaining $10M in customer spending
+- 💡 Led development of **SmartFulfill agent** using offline RL, reducing delivery failures by 8.5% and retaining $10M in customer spending
 - 🏅 **Award Winner**: Global Volvo Group Idea of the Month Award for saving $200K using AI solutions
 - 📊 **Impact**: Generated over $30M in potential savings through optimization models and analytics
 - 🌱 Published **8+ journal articles** and **8+ conference proceedings** in AI, ML, and data analytics
