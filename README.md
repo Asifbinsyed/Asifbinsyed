@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Sr.+Supply+Chain+Data+Analyst;ML+%26+AI+Researcher;Reinforcement+Learning+Enthusiast;5%2B+Years+of+Experience&center=true&width=500&height=50">
-</div>
-
----
+# Md Asif Bin Syed
+## ML Scientist
 
 👋 **Hi there! I'm Md Asif Bin Syed**, a Sr. Supply Chain Data Analyst at The Home Depot, the world's leading home improvement retailer. With over 5+ years of experience, I transform business challenges into production-grade ML and AI solutions, delivering measurable impact including **$30M+ in cost savings** and improved model accuracy by **8-10%** across multiple projects. Leading the development of offline reinforcement learning agents that reduce delivery failures by **8.5% ($10M retained revenue)** and building ML models for operational forecasting using modern frameworks like **LangGraph** and **ADK**.
 
@@ -12,29 +9,11 @@ I have published in venues including **ICML Workshop'25**, **NeurIPS Workshop'25
 
 ---
 
-<div align="center">
-
-### 🚀 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asifbinsyed&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Asifbinsyed&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asifbinsyed&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asifbinsyed&theme=redical&hide_border=false)
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Asifbinsyed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 💼 Current Role
 
 <div align="center">
 
-![The Home Depot](https://img.shields.io/badge/The%20Home%20Depot-F96302?style=for-the-badge&logo=thehomedepot&logoColor=white)
+![The Home Depot](https://img.shields.io/badge/The%20Home%20Depot-F96302?style=for-the-badge&logo=home-depot&logoColor=white)
 
 </div>
 
@@ -126,8 +105,8 @@ I have published in venues including **ICML Workshop'25**, **NeurIPS Workshop'25
 
 <div align="center">
 
-![Georgia Tech](https://img.shields.io/badge/Georgia%20Tech-FF6600?style=for-the-badge&logo=georgia-tech&logoColor=white)
-![West Virginia University](https://img.shields.io/badge/West%20Virginia%20University-002855?style=for-the-badge&logo=west-virginia-university&logoColor=white)
+![Georgia Tech](https://img.shields.io/badge/Georgia%20Tech-FF6600?style=for-the-badge&logo=georgia-institute-of-technology&logoColor=white)
+![West Virginia University](https://img.shields.io/badge/West%20Virginia%20University-002855?style=for-the-badge&logo=university&logoColor=white)
 
 </div>
 
@@ -141,7 +120,7 @@ I have published in venues including **ICML Workshop'25**, **NeurIPS Workshop'25
 
 <div align="center">
 
-![The Home Depot](https://img.shields.io/badge/The%20Home%20Depot-F96302?style=for-the-badge&logo=thehomedepot&logoColor=white)
+![The Home Depot](https://img.shields.io/badge/The%20Home%20Depot-F96302?style=for-the-badge&logo=home-depot&logoColor=white)
 ![Volvo Group](https://img.shields.io/badge/Volvo%20Group-003057?style=for-the-badge&logo=volvo&logoColor=white)
 
 </div>
@@ -174,8 +153,8 @@ I have published in venues including **ICML Workshop'25**, **NeurIPS Workshop'25
 
 <div align="center">
 
-![ICML](https://img.shields.io/badge/ICML%20Workshop%202025-FF6F00?style=for-the-badge&logo=icml&logoColor=white)
-![NeurIPS](https://img.shields.io/badge/NeurIPS%20Workshop%202025-FF6B35?style=for-the-badge&logo=neurips&logoColor=white)
+![ICML](https://img.shields.io/badge/ICML%20Workshop%202025-FF6F00?style=for-the-badge&logo=google-scholar&logoColor=white)
+![NeurIPS](https://img.shields.io/badge/NeurIPS%20Workshop%202025-FF6B35?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 
 </div>
@@ -236,13 +215,12 @@ I have published in venues including **ICML Workshop'25**, **NeurIPS Workshop'25
 
 <div align="center">
 
-### 👀 Profile Views
+### 🎯 GitHub Metrics
 
-![Profile Views](https://komarev.com/ghpvc/?username=Asifbinsyed&color=blueviolet&style=for-the-badge)
-
-### 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![GitHub Followers](https://img.shields.io/github/followers/Asifbinsyed?label=👥%20Followers&style=for-the-badge&color=blueviolet&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Asifbinsyed?label=⭐%20Stars&style=for-the-badge&color=blueviolet&logo=github)
+![GitHub Commits](https://img.shields.io/badge/📝%20Commits-Active-blueviolet?style=for-the-badge&logo=git)
+![GitHub Repos](https://img.shields.io/badge/📦%20Repos-Public-blueviolet?style=for-the-badge&logo=github)
 
 </div>
 
